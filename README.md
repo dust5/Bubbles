@@ -21,8 +21,7 @@ Github版本命名规范
         [CREATE][STORY][0.1]项目框架搭建
         表示新创建了一批项目框架有关的文件。
 
-
-		[UPDATE][BUG][0.1]APP内存泄漏
-		表示修改了关于APP内存泄漏相关的BUG。
+        [UPDATE][BUG][0.1]APP内存泄漏
+        表示修改了关于APP内存泄漏相关的BUG。
 
 另外，Description建议尽量填写详细。

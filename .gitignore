@@ -1,6 +1,7 @@
 .idea/*
 ~$*
 
-Unity_Project/
+Unity_Project/Library/
+Unity_Project/Temp/
 !Assets/*
 !ProjectSettings/*

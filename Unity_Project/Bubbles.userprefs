@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Button_ChangeBg.cs">
+    <Files>
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIDragObject.cs" Line="40" Column="15" />
+      <File FileName="Assets\Script\DragBackground.cs" Line="273" Column="5" />
+      <File FileName="Assets\Script\Button_ChangeBg.cs" Line="26" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
